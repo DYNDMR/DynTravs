@@ -1,0 +1,31 @@
+header {
+    background-color:rgb(192, 209, 216);
+    margin: 0px;
+    font-family: 'Handlee', cursive;
+    margin-bottom: 10px;
+  }
+  
+  .linkHeader {
+    color: white;
+  }
+  
+  .icon {
+    text-align: center;
+  }
+  
+  .box-link {
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 6px;
+  
+  }
+  
+  .box-link:hover {
+  
+    box-shadow: 6px 6px 5px rgb(68, 69, 73);
+  }
+  
+  .btn-logOut {
+  
+    margin: 10px;
+  }
